@@ -112,3 +112,5 @@ xhr.open(
 );
 
 xhr.send();
+
+console.log("check valus");
